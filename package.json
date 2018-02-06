@@ -1,0 +1,25 @@
+{
+  "name": "cucumber-firestarter",
+  "version": "1.0.0",
+  "description": "FireStarter CucumberJS + Selenium Web Driver JavaScript tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidormlondon/Cucumber-FireStarter.git"
+  },
+  "keywords": [
+    "CucumberJS",
+    "Selenium",
+    "WebDriver",
+    "JavaScript"
+  ],
+  "author": "David Polakowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawidormlondon/Cucumber-FireStarter/issues"
+  },
+  "homepage": "https://github.com/dawidormlondon/Cucumber-FireStarter#readme"
+}
